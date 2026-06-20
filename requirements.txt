@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+statsmodels
+scikit-learn
+matplotlib
+# Football analytics companion
+# Installed from GitHub because not on PyPI
+git+https://github.com/octosport/octopy.git
